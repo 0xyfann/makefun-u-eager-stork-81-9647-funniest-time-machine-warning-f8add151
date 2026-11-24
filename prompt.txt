@@ -1,0 +1,10 @@
+Write the funniest one-line warning label for a time machine, at most 120 characters.
+
+Judge brief to beat:
+1. It must read as a warning label for a time machine above all else.
+2. Turn a real hazard of time travel — a paradox, a duplicate self, a stranded ancestor — into the joke instead of naming it flatly.
+3. Save the surprise for the last few words, so the laugh lands where the reader least expects it.
+4. Keep a straight face: phrase it like a genuine safety notice, so the joke cuts against official calm.
+5. Waste no words; every phrase must do work.
+
+My angle: the duplicate-self hazard. Open with an official "WARNING:", give a calm instruction ("do not wave"), then land the punchline in the final clause — the other you knows something embarrassing about you. Keep it short (under 90 characters), original, one line, no trailing newline.
